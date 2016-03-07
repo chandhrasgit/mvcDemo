@@ -5,4 +5,9 @@ package edu.cs4730.mvcdemo;
  */
 public class Test {
     //this is test class
+    private String test;
+
+    public String getTest() {
+        return test;
+    }
 }
