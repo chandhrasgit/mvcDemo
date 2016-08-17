@@ -5,6 +5,7 @@ package edu.cs4730.mvcdemo;
  */
 public class Test {
     //this is test class
+    //this is test clss for string
     private String test;
 
     public String getTest() {
