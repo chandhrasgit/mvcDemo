@@ -44,6 +44,7 @@ public class ColorList {
 		new ColorData("Dark Orchid", Color.rgb(153, 50, 204)),
 		new ColorData("White", Color.WHITE),
 		new ColorData("Red",Color.CYAN),
+			  new ColorData("Grey",Color.BLACK),
 		new ColorData()  //black.
 	  };
 	  
